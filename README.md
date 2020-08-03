@@ -1,7 +1,7 @@
-# 你好，这里是阿贪 ![Gopher](https://github.com/egonelbre/gophers/blob/master/.thumb/icon/gotham.png)
-
-## ![gopher](https://github.com/egonelbre/gophers/blob/master/.thumb/icon/typing-furiously-3x.gif) 关于我...
-```- 🔭 刚毕业(2020)
+# 你好，这里是阿贪 😛
+## ❔ 关于我...
+``` 
+ 🔭 刚毕业(2020)
  🌱 软件专业(Java Web方向)
  🏆 Go语言(主力语言)
  📐 喜欢折腾,造轮子(>A<) 
@@ -43,4 +43,4 @@
 ## 💬 联系我  
 微信: **zhaobutan**  
 微信公众平台:**阿贪的学识馆**  
-![gophers](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+
