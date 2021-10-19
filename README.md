@@ -42,5 +42,5 @@
 ![BuTn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmosc2)  
 ## 💬 联系我  
 微信: **zhaobutan**  
-微信公众平台:**阿贪爱学习**  
+微信公众号:**梦真日记**  
 
