@@ -1,3 +1,5 @@
+> 😢此号已弃用，转至[bootun](https://github.com/bootun)
+
 ## ❔ 关于我...
 ``` 
  🌱 软件工程专业(在读)
@@ -41,5 +43,5 @@
 ![BuTn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmosc2)  
 ## 💬 联系我  
 微信: **zhaobutan**  
-微信公众号:**梦真日记**  
+微信公众号:**比特要塞**  
 
